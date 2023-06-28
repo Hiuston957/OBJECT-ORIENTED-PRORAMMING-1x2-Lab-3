@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1 – Extension methods", "C#-1x2-Lab-3\Exercise 1 – Extension methods.csproj", "{86C854FD-0994-494E-A024-D2E5A6F99C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3 – Yield", "Exercise 3 – Yield\Exercise 3 – Yield.csproj", "{0B686562-9D33-4B22-9B48-63A139C708D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 – Generic methods", "Exercise 4 – Generic methods\Exercise 4 – Generic methods.csproj", "{BAD8C37D-CB3C-4FCC-91F2-4F98DC905D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 7 – Custom collections", "Exercise 7 – Custom collections\Exercise 7 – Custom collections.csproj", "{AAE45249-8D29-4847-AC1B-EDC32F70FFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 8 – Integer indexers", "Exercise 8 – Integer indexers\Exercise 8 – Integer indexers.csproj", "{8108ABAB-3B73-4B0C-A133-53DEFF683429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C854FD-0994-494E-A024-D2E5A6F99C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C854FD-0994-494E-A024-D2E5A6F99C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C854FD-0994-494E-A024-D2E5A6F99C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C854FD-0994-494E-A024-D2E5A6F99C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B686562-9D33-4B22-9B48-63A139C708D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B686562-9D33-4B22-9B48-63A139C708D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B686562-9D33-4B22-9B48-63A139C708D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B686562-9D33-4B22-9B48-63A139C708D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD8C37D-CB3C-4FCC-91F2-4F98DC905D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD8C37D-CB3C-4FCC-91F2-4F98DC905D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD8C37D-CB3C-4FCC-91F2-4F98DC905D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD8C37D-CB3C-4FCC-91F2-4F98DC905D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE45249-8D29-4847-AC1B-EDC32F70FFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE45249-8D29-4847-AC1B-EDC32F70FFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE45249-8D29-4847-AC1B-EDC32F70FFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE45249-8D29-4847-AC1B-EDC32F70FFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8108ABAB-3B73-4B0C-A133-53DEFF683429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8108ABAB-3B73-4B0C-A133-53DEFF683429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8108ABAB-3B73-4B0C-A133-53DEFF683429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8108ABAB-3B73-4B0C-A133-53DEFF683429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B31BAE2-0905-4107-A530-32F4EFEEC8D3}
+	EndGlobalSection
+EndGlobal
