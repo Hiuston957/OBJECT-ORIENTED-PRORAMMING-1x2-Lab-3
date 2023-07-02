@@ -14,7 +14,7 @@ namespace Ex_03_04
             Console.WriteLine();
             Console.WriteLine(Bigger(8, 9));
             Console.WriteLine(Bigger(8.0, 9.0));
-            Console.WriteLine(Bigger("eight", "nine"));
+            Console.WriteLine(Bigger("ba", "aa"));
         }
         /**********************************************************************/
         // A method which works on any type, here named as T
